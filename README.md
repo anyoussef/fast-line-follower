@@ -12,6 +12,8 @@
 * AFMotor.h
 * Arduino.h
 
+![Alt text](images/bot.jpeg)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
